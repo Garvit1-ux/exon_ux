@@ -1,2 +1,1 @@
-this is my first text file
-https://github.com/Garvit1-ux/exon_ux.git
+this is my second text file...
